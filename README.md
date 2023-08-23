@@ -57,12 +57,10 @@ I still have no idea what I want to do in a long run so I am exploring a bunch o
 ![Static Badge](https://img.shields.io/badge/html5-%23e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css3-%23264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sass-%23cc6699?style=for-the-badge&logo=sass&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/flask-%23fbcb24?style=for-the-badge&logo=python&logoColor=gray)
-
 ![Static Badge](https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/flask-%23fbcb24?style=for-the-badge&logo=python&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/mysql-%23006189?style=for-the-badge&logo=mysql&logoColor=white)
 
 - [Airness Airlines Website](https://github.com/szy-kenn/airness-airlines) using Vanilla JS for front-end, Flask for back-end, and MySQL for the database.
