@@ -82,9 +82,6 @@ There's a lot more to learn. Here's what's next for me:
 ![Static Badge](https://img.shields.io/badge/react-%2361dafb?style=for-the-badge&logo=react&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/firebase-%23FFCB2B?style=for-the-badge&logo=firebase&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
-
-- Software Development:
-
-![Static Badge](https://img.shields.io/badge/electron-%239FEAF9?style=for-the-badge&logo=electron&logoColor=gray)
+![Static Badge](https://img.shields.io/badge/node-green?style=for-the-badge&logo=node&logoColor=white)
 
 <hr>
