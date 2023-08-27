@@ -84,5 +84,6 @@ There's a lot more to learn. Here's what's next for me:
 ![Static Badge](https://img.shields.io/badge/react-%2361dafb?style=for-the-badge&logo=react&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/firebase-%23FFCB2B?style=for-the-badge&logo=firebase&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/node.js-%233c873a?style=for-the-badge&logo=Node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/aws-%233c873a?style=for-the-badge&logo=amazonaws.js&logoColor=white)
 
 <hr>
