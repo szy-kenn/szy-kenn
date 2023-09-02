@@ -65,6 +65,8 @@ I still have no idea what I want to do in a long run so I am exploring a bunch o
 
 - [Airness Airlines Website](https://github.com/szy-kenn/airness-airlines) using Vanilla JS for front-end, Flask for back-end, and MySQL for the database.
 
+- [Yet Another Wordle Clone](https://yet-another-wordle-clone.web.app/) using TypeScript, Sass, and Firebase.
+
 <hr>
 
 ### 📙 What's next
