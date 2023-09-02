@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <sup>using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<sup>
 
+![](https://komarev.com/ghpvc/?username=szy-kenn&color=blueviolet&style=for-the-badge)
+
 <hr> 
 
 ### 🤔 What I do <sub>_(what am I even doing here)_<sub>
