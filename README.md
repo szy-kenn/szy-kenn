@@ -71,7 +71,7 @@ I still have no idea what I want to do in a long run so I am exploring a bunch o
 
 -   [Yet Another Wordle Clone](https://yet-another-wordle-clone.web.app/) using TypeScript, Sass, and Firebase (for hosting).
 
--p [Nexus](https://szy-kenn-nexus.web.app/) using React, TypeScript, and Firebase (for hosting).
+-   [Nexus](https://szy-kenn-nexus.web.app/) using React, TypeScript, and Firebase (for hosting).
 
 <hr>
 
