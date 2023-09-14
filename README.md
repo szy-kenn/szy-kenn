@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ### 🤔 What I do <sub>_(what am I even doing here)_<sub>
 
-I'm interested in Software, Game, and Web Development. I'm currently exploring **Web Development**.
+It wasn't until the beginning of my second year in college (Oct. 2022) that I decided to fully commit on the path that I chose - *Computer Science*. Having a good foundation in C, I started learning Python and my progress has been nothing short of remarkable so far. My primary areas of interest lie in Software Development, Game Development, and Web Development. I'm currently exploring **Web Development**. 
 
 <hr>
 
-### 🤌 So what are these unrelated stuffs
+### 🤌 What I have done so far
 
 #### Software Development
 
