@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🤔 What I do <sub>_(what am I even doing here)_<sub>
 
-I still have no idea what I want to do in a long run so I am exploring a bunch of unrelated stuffs and hopefully find the field where I'm genuinely interested in.
+I'm interested in Software, Game, and Web Development. I'm currently exploring **Web Development**.
 
 <hr>
 
