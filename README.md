@@ -85,7 +85,6 @@ There's a lot more to learn. Here's what's next for me:
 
 ![Static Badge](https://img.shields.io/badge/godot_engine-%234d90c1?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
-![Static Badge](https://img.shields.io/badge/aseprite-white?style=for-the-badge&logo=aseprite&logoColor=black)
 
 -   Web Development:
 
