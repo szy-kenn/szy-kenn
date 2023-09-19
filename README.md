@@ -41,7 +41,7 @@ It wasn't until the beginning of my second year in college (Oct. 2022) that I de
 #### Software Development
 
 ![Static Badge](https://img.shields.io/badge/tkinter-%23fbcb24?style=for-the-badge&logo=python&logoColor=gray)
-![Java's JavaFX](https://img.shields.io/badge/JavaFX-white?style=for-the-badge&logo=openjdk)
+![Java's JavaFX](https://img.shields.io/badge/JavaFX-red?style=for-the-badge&logo=openjdk&logoColor=white)
 
 -   [Automated Scheduling System](https://github.com/szy-kenn/automated-scheduling-system) using Python's Tkinter and `@TomSchimansky`'s [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
