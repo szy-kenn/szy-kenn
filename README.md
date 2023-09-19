@@ -63,7 +63,7 @@ It wasn't until the beginning of my second year in college (Oct. 2022) that I de
 ![Static Badge](https://img.shields.io/badge/sass-%23cc6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/typescript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/react-%2361dafb?style=for-the-badge&logo=react&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/flask-%23fbcb24?style=for-the-badge&logo=python&logoColor=gray)
 ![Static Badge](https://img.shields.io/badge/mysql-%23006189?style=for-the-badge&logo=mysql&logoColor=white)
 
