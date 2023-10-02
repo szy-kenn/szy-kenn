@@ -91,9 +91,7 @@ There's a lot more to learn. Here's what's next for me:
 
 -   Web Development:
 
-
-![Static Badge](https://img.shields.io/badge/express-%23303030?style=for-the-badge&logo=express&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mongodb-%2355ad47?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nuxt_js-%2300DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/aws-%23ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/next_js-%23080808?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
