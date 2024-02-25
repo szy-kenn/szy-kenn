@@ -80,19 +80,8 @@ Currently exploring **Web Development**.
 
 ### 📙 What's next
 
-There's a lot more to learn. Here's what's next for me:
-
-(No, I'm not learning them all at once)
-
--   Game Development:
-
-![Static Badge](https://img.shields.io/badge/godot_engine-%234d90c1?style=for-the-badge&logo=godotengine&logoColor=white)
-![Static Badge](https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white)
-
 -   Web Development:
 
-![Static Badge](https://img.shields.io/badge/nuxt_js-%2300DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/aws-%23ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/next_js-%23080808?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <hr>
