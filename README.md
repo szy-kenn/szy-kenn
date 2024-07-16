@@ -29,10 +29,3 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=szy-kenn&color=blueviolet&style=for-the-badge)
 
 <hr>
-
-### 🤔 What I do <sub>_(what am I even doing here)_<sub>
-
-Computer Science Student.
-Currently exploring **Web Development**.
-
-<hr>
